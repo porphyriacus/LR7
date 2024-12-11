@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task3.dir/SumSubstr.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/SumSubstr.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/SumSubstr.cpp"
+},
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task3.dir/input.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/input.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/input.cpp"
+},
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task3.dir/main.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/main.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_3/main.cpp"
+}
+]

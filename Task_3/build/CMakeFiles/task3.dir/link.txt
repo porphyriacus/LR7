@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread -g CMakeFiles/task3.dir/SumSubstr.cpp.o CMakeFiles/task3.dir/input.cpp.o CMakeFiles/task3.dir/main.cpp.o -o task3 

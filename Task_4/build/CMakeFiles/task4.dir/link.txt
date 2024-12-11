@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread -g CMakeFiles/task4.dir/input.cpp.o CMakeFiles/task4.dir/main.cpp.o CMakeFiles/task4.dir/solve.cpp.o -o task4 

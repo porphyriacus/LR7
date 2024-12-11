@@ -1,0 +1,4 @@
+Checks: '-*,clang-analyzer-*,modernize-*'
+WarningsAsErrors: 'modernize-use-nullptr,readability-*'
+HeaderFilterRegex: '.*'
+AnalyzeTemporaryDtors: true

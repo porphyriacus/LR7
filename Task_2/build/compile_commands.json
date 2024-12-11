@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task2.dir/binary.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/binary.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/binary.cpp"
+},
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task2.dir/input.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/input.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/input.cpp"
+},
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task2.dir/main.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/main.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/main.cpp"
+},
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task2.dir/reverse.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/reverse.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/reverse.cpp"
+},
+{
+  "directory": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/task2.dir/sumdop.cpp.o -c /home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/sumdop.cpp",
+  "file": "/home/porphyriacus/Documents/453502/ОАиП/LR7/Task_2/sumdop.cpp"
+}
+]
